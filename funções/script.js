@@ -1,4 +1,4 @@
-// Tiipos de função
+// Tipos de funções
 
 /// Função declarativa
 function funcao() {

@@ -101,7 +101,7 @@ console.log(maiorQue);
 var menorQue = 5 < 2;
 console.log(menorQue);
 
-/// Maior ou menor que
+/// Maior ou igual
 var maiorOuIgual = 5 >= 5;
 console.log(maiorOuIgual);
 

@@ -1,0 +1,29 @@
+# Variáveis
+
+Esta pasta contém a atividade prática do módulo "Variáveis", que faz parte do curso de Javascript que realizei pela [Digital Innovation One](https://digitalinnovation.one/).
+
+## Conteúdo
+
+- Tipos primitivos:
+  - Boleanos;
+  - Number;
+  - String;
+- Escopo;
+- Atribuição;
+- Comparação / comparação idêntica;
+- Operações:
+  - Adição;
+  - Subtração;
+  - Multiplicação;
+  - Divisão Real;
+  - Divisão Inteira;
+  - Potenciação;
+- Operadores Relacionais:
+  - Maior que;
+  - Menor que;
+  - Maior ou igual;
+  - Menor ou igual;
+- Operadores Lógicos:
+  - && "e";
+  - || "ou"
+  - ! "não"
