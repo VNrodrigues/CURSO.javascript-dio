@@ -15,4 +15,4 @@ Neste repositório, você encontrará as atividades práticas e todos os arquivo
 - Coleções;
 - Debugging e Error Handling;
 - Orientação à Objetos;
-- JS Assíncrono
+- JS Assíncrono;
