@@ -4,14 +4,18 @@ Esta pasta contém a atividade prática do módulo "Variáveis", que faz parte d
 
 O objetivo deste módulo foi explicar as principais estruturas de dados do JavaScript, como utilizá-las e suas possibilidades.
 
-## Conteúdo
+## Conteúdo Estudado
 
-- Tipos primitivos:
-  - Boleanos;
-  - Number;
-  - String;
+- Atribuição de Valores:
+  - let / var / const
+- Tipos:
+  - Booleans;
+  - Numbers;
+  - Strings;
+  - Arrays;
+  - Objetos;
+  - Empty / undefined / null;
 - Escopo;
-- Atribuição;
 - Comparação / comparação idêntica;
 - Operações:
   - Adição;

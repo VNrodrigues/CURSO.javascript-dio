@@ -23,12 +23,28 @@ var variavel = 'vinicius'
 variavel = 'vini';
 console.log(variavel);
 
+var a = 1;
+var b = 2;
+
+if (a === 1) {
+    var a =11; // escopo global
+    let b = 22; // escopo local
+
+    console.log(a);
+    console.log(b);
+}
+
+console.log(a);
+console.log(b);
+
 let variavel2 = 'vn';
 variavel2 = 'VN'
 console.log(variavel2);
 
-const constante = 'vinicius';
-console.log(constante);
+const FIRST_NAME = 'vinicius';
+console.log(FIRST_NAME);
+
+
 
 // ====================================================== //
 
@@ -43,7 +59,6 @@ function escopoLocal() {
 }
 
 escopoLocal();
-
 
 // ====================================================== //
 
