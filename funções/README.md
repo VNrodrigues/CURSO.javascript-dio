@@ -1,6 +1,6 @@
 # Funções
 
-Esta pasta contém a atividade prática do módulo "Funções", que faz parte do curso de Javascript que realizei pela [Digital Innovation One](https://digitalinnovation.one/).
+Esta pasta contém a atividade prática da aula "Funções", que faz parte do curso de Javascript que realizei pela [Digital Innovation One](https://digitalinnovation.one/).
 
 ## Conteúdo
 
