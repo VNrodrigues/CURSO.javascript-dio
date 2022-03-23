@@ -2,6 +2,8 @@
 
 Esta pasta contém a atividade prática do módulo "Variáveis", que faz parte do curso de Javascript que realizei pela [Digital Innovation One](https://digitalinnovation.one/).
 
+O objetivo deste módulo foi explicar as principais estruturas de dados do JavaScript, como utilizá-las e suas possibilidades.
+
 ## Conteúdo
 
 - Tipos primitivos:
