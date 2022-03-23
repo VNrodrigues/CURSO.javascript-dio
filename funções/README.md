@@ -9,3 +9,7 @@ Esta pasta contém a atividade prática da aula "Funções", que faz parte do cu
   - Função com parâmetros;
   - Função de expressão;
   - Arrow Function;
+- Como declarar funções;
+- Como manipular parâmetros;
+- Loops e outras declarações;
+- Argumento "this";
