@@ -1,6 +1,6 @@
 # Sintaxe e Operadores
 
-Este repositório contém a atividade prática do módulo "Sintaxe e Operadores", que faz parte do curso de Javascript que realizei pela [Digital Innovation One](https://digitalinnovation.one/).
+Esta pasta contém a atividade prática do módulo "Sintaxe e Operadores", que faz parte do curso de Javascript que realizei pela [Digital Innovation One](https://digitalinnovation.one/).
 
 ## Atividade Proposta
 
