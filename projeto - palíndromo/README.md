@@ -1,6 +1,6 @@
 # Variáveis e Tipos
 
-Neste repositório você encontrará um projeto proposto pela aula "Variáveis e Tipos" do curso de Javascript que realizei pela [Digital Innovation One](https://digitalinnovation.one/).
+Nesta pasta você encontrará um projeto proposto pela aula "Variáveis e Tipos" do curso de Javascript que realizei pela [Digital Innovation One](https://digitalinnovation.one/).
 
 ## Atividade
 
